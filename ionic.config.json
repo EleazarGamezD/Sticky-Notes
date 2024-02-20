@@ -1,0 +1,7 @@
+{
+  "name": "Sticky-Notes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
